@@ -1,10 +1,18 @@
+# understanding the problem  -
+# maybe iterate over the list of list
+# place the number in the dict
+# if one list has a number that equals a number in another list
+# if a number in one list is in the other list return that number a
+# as results
+
+dict = {}
+
+
 def intersection(arrays):
     """
     YOUR CODE HERE
     """
     # Your code here
-
-    return result
 
 
 if __name__ == "__main__":
